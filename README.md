@@ -12,4 +12,9 @@ My games could fit games in one QR-Code, but it didn't work, because my library 
 
 I hate designing.
 
+You can easily create your own QR-Codes if you follow the steps.
 
+1. Have a game you want to convert. __It must be written in HTML.__
+2. A QR-Code should hold round about 1kb to be scanable. So if your game exceeds 1kb, split it up. Be aware that the limit are nine (9) QR-Codes.
+3. At the beginning of each segment of your game, you have to put in the ID. The ID has three (3) character: which QR-Codes this is, how many QR-Codes there are, and a letter to not confuse it with other games. For example 13D. That means, this is QR-Code one (1) of three (3) and it has the letter D. If you want a second game, you can change the letter.
+4. Now you just have to convert your strings to QR-Codes, and finished you are.
