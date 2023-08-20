@@ -2,7 +2,7 @@
 An app for Android to scan QR-Codes and play them.
 
 ## Description
-This app can scan QR-Codes and play the game within. The games have to be in HTML. You can find my games here: https://github.com/qwystal/QR-Codes
+This app can scan QR-Codes and play the game within. You can find my games here: https://github.com/qwystal/QR-Codes
 
 This entire project was just a project for school and I'm not really proud of it, as could have done so much more. But it's my very first program in Java.
 
